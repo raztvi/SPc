@@ -1,0 +1,145 @@
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\bin\Debug\SecurePC.exe.config
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\bin\Debug\SecurePC.exe
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\bin\Debug\SecurePC.pdb
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\SecurePC.csprojResolveAssemblyReference.cache
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\MainWindow.baml
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\MainWindow.g.cs
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\App.g.cs
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\SecurePC_MarkupCompile.cache
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\SecurePC.g.resources
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\SecurePC.Properties.Resources.resources
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.GenerateResource.Cache
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\SecurePC.exe
+c:\users\s\documents\visual studio 2013\Projects\SecurePC\SecurePC\obj\Debug\SecurePC.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.App.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\AuthFailPage.baml
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\AuthSuccessPage.baml
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\LockPage.baml
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\WebcamPage.baml
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\AuthFailPage.g.cs
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\AuthSuccessPage.g.cs
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\LockPage.g.cs
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\WebcamPage.g.cs
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\CheckAuth.baml
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\obj\Debug\Controls\CheckAuth.g.cs
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\FontAwesome.WPF.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\SecurePC\SecurePC\bin\Debug\FontAwesome.WPF.xml
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\SecurePC.exe.config
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\SecurePC.exe
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\SecurePC.pdb
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\SecurePC.exe
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\SecurePC.pdb
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\FontAwesome.WPF.dll
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\Microsoft.ProjectOxford.Common.dll
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\Microsoft.ProjectOxford.Face.dll
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\Newtonsoft.Json.dll
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\System.Net.Http.Extensions.dll
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\System.Net.Http.Primitives.dll
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\FontAwesome.WPF.xml
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\Newtonsoft.Json.xml
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\System.Net.Http.Extensions.xml
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\System.Net.Http.Primitives.xml
+E:\Licenta\SecurePC\SecurePC\SecurePC\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.App.config
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\AuthFailPage.baml
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\AuthSuccessPage.baml
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\CheckAuth.baml
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\LockPage.baml
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\WebcamPage.baml
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\MainWindow.baml
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\AuthFailPage.g.cs
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\AuthSuccessPage.g.cs
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\CheckAuth.g.cs
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\LockPage.g.cs
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\Controls\WebcamPage.g.cs
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\MainWindow.g.cs
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\App.g.cs
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\SecurePC_MarkupCompile.cache
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\SecurePC.g.resources
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\SecurePC.Properties.Resources.resources
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.GenerateResource.Cache
+E:\Licenta\SecurePC\SecurePC\SecurePC\obj\Debug\SecurePC.csprojResolveAssemblyReference.cache
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\SecurePC.exe.config
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\SecurePC.exe
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\SecurePC.pdb
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\FontAwesome.WPF.dll
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\FontAwesome.WPF.xml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.App.config
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.csprojResolveAssemblyReference.cache
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\AuthFailPage.baml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\AuthSuccessPage.baml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\CheckAuth.baml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\LockPage.baml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\WebcamPage.baml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\MainWindow.baml
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\AuthFailPage.g.cs
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\AuthSuccessPage.g.cs
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\CheckAuth.g.cs
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\LockPage.g.cs
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\WebcamPage.g.cs
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\MainWindow.g.cs
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\App.g.cs
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC_MarkupCompile.cache
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.g.resources
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.Properties.Resources.resources
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.GenerateResource.Cache
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.exe
+C:\Users\razvan\Desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.pdb
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\SecurePC.exe.config
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\SecurePC.exe
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\SecurePC.pdb
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\FontAwesome.WPF.dll
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\Microsoft.ProjectOxford.Common.dll
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\Microsoft.ProjectOxford.Face.dll
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\Newtonsoft.Json.dll
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\System.Net.Http.Extensions.dll
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\System.Net.Http.Primitives.dll
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.dll
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\FontAwesome.WPF.xml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\Newtonsoft.Json.xml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\System.Net.Http.Extensions.xml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\System.Net.Http.Primitives.xml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\bin\Debug\WebEye.Controls.Wpf.WebCameraControl.pdb
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.App.config
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.csprojResolveAssemblyReference.cache
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\AuthFailPage.baml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\AuthSuccessPage.baml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\CheckAuth.baml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\LockPage.baml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\WebcamPage.baml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\MainWindow.baml
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\AuthFailPage.g.cs
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\AuthSuccessPage.g.cs
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\CheckAuth.g.cs
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\LockPage.g.cs
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\Controls\WebcamPage.g.cs
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\MainWindow.g.cs
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\App.g.cs
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC_MarkupCompile.cache
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.g.resources
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.Properties.Resources.resources
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.GenerateResource.Cache
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.csproj.CoreCompileInputs.cache
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.exe
+D:\savec\desktop\LicentaOficial\SecurePC\SecurePC\obj\Debug\SecurePC.pdb
